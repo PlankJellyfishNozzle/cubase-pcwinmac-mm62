@@ -1,4 +1,4 @@
-# 
+# 最佳 Cubase 预设 Mac OS版 | VIP Cubase 预设 PC Windows版。集成 回放缓冲 和 噪音抑制，跨平台性能最大化。
 
 
 
